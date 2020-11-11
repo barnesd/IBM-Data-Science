@@ -1,3 +1,3 @@
 # Display output
 
-Adding a new file
+print('Adding a new file')
